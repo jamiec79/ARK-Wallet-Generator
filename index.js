@@ -5,7 +5,6 @@ var argv = require('minimist')(process.argv.slice(2));
 if (argv['n']) {
     ark.crypto.setNetworkVersion({
         mainnet: 23,
-        testnet: 52,
         devnet: 30
     }[argv['n']]);
 }
