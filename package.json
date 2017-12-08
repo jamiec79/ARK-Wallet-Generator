@@ -1,0 +1,29 @@
+{
+    "name": "ark-wallet-generator",
+    "version": "1.0.0",
+    "description": "An easy method of generating new ARK wallets.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/faustbrian/ARK-Wallet-Generator.git"
+    },
+    "keywords": [
+        "ark",
+        "crypto",
+        "wallet"
+    ],
+    "author": "Brian Faust <hello@brianfaust.me> (https://brianfaust.me)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/faustbrian/ARK-Wallet-Generator/issues"
+    },
+    "homepage": "https://github.com/faustbrian/ARK-Wallet-Generator",
+    "dependencies": {
+        "arkjs": "^0.2.1",
+        "bip39": "^2.4.0",
+        "minimist": "^1.2.0"
+    }
+}
