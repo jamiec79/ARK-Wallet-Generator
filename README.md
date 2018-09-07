@@ -1,5 +1,7 @@
 # ARK Wallet Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/faustbrian/ARK-Wallet-Generator.svg)](https://greenkeeper.io/)
+
 ## Installation
 
 ```bash
